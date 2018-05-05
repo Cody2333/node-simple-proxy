@@ -1,0 +1,19 @@
+{
+  "name": "node-simple-proxy",
+  "version": "1.0.0",
+  "description": "用最简化的代码实现反向代理的核心功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "cody",
+  "license": "MIT",
+  "repository": "https://github.com/Cody2333/node-simple-proxy",
+  "dependencies": {
+    "path-to-regexp": "^2.2.1"
+  },
+  "devDependencies": {
+    "supertest": "^3.0.0",
+    "mocha": "^5.1.1"
+  }
+}
